@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Sreekutty  
 
-💼 Software Developer    
+💼 Software Developer  
 💻 Working on real-world projects  
 📍 Kerala, India  
 
@@ -21,11 +21,20 @@
 ---
 
 ### 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreekutty@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreekuttyu)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekuttyu&show_icons=true&theme=tokyonight)
+![Sreekutty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekuttyu&show_icons=true&theme=tokyonight)
 
+---
+
+### 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekuttyu&layout=compact&theme=tokyonight)
+
+---
+
+### ⚡ GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sreekuttyu&theme=tokyonight)
